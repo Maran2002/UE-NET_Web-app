@@ -1,10 +1,10 @@
-#### UE-NET
+# UE-NET
 
 ## This project is a web application of my Deep Learning project.
 
-# The publishable paper for this DL project yet to publish, So i didn't add the final models. the model that i have added is a sample model. Here I did not upload full code and comparison of the DL project.
+### The publishable paper for this DL project yet to publish, So i didn't add the final models. the model that i have added is a sample model. Here I did not upload full code and comparison of the DL project.
 
-## Python Code Dependencies
+### Python Code Dependencies
 
     1. flask
     2. tensorflow
@@ -16,7 +16,7 @@
     8. segmentation_models (segmentation-models )
 
 
-## React Dependies
+### React Dependies
 
     1. jest-dom": "^5.17.0"
     2. react": "^13.4.0"
@@ -27,18 +27,18 @@
     7. react-dom": "^18.3.1"
     8. react-scripts": "5.0.1"
 
-## To run this code
+### To run this code
 
-# Before starting install all dependencies
+## Before starting install all dependencies
 
 Step 1: open command promt (cmd) and navigate to source folder.
 
 step 2: run the python file named app.js with the command 
-# python app.js
+#### python app.js
 It will starts run.
 
 step 3: run the react code with the below command
-# npm start
+#### npm start
 
 Now, you are ready to use it. Just submit sample images from this repo to the form in web app. 
 
